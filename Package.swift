@@ -2,8 +2,8 @@
 import PackageDescription
 
 // BEGIN KMMBRIDGE VARIABLES BLOCK (do not edit)
-let remoteKotlinUrl = "file:/Users/runner/work/objective-sdk-kotlin-multiplatform/objective-sdk-kotlin-multiplatform/objective-sdk-kotlin-multiplatform/build/publish/staging/f0a1bc72-01eb-4ad8-9cd0-c2a930c53aeb//Objective_SDK/objective-kmmbridge/0.3.0/objective-kmmbridge-0.3.0.zip"
-let remoteKotlinChecksum = "59a64d05b64e7df1e0caae1abcb7f151210ffcc9ce2c1ff08eac07445e7f911c"
+let remoteKotlinUrl = "https://repo.maven.apache.org/maven2//Objective_SDK/objective-kmmbridge/0.3.1/objective-kmmbridge-0.3.1.zip"
+let remoteKotlinChecksum = "9fa89ee89cb8acac3ab4afd9e40762380e8084897dd2c7c0ab14ff803315a852"
 let packageName = "objective"
 // END KMMBRIDGE BLOCK
 
